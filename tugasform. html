@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">  
+  <meta name="viewport"contect="width=device-width, initial-scale=1.0">
+  <title>pendaftaran form</title>
+  </head>
+  <body>
+      <h3>Form Pendaftaran</h3>
+      <br></br>
+      NAMA : <input type="text""ketikan nama kamu"</br>
+    KOTA LAHIR : <input type="text""ketikan nama kota"</br>
+  TANGGAL LAHIR : <input type="text""date"</br>
+    GENDER : <input type="radio"name="gender"value=pria<br> 
+    <input type="radio"name="gender"value=wanita<br>
+    NO TELEPON <input type="number"placeholder"ketikan no telepon kamu"</br>
+    ALAMAT <input type="textarea"name=""id=""cols "ketikan no telepon kamu"</br>
+    AGAMA 
+    ISLAM
+    KHATOLIK
+    KRISTEN
+    BUDHA
+    KHONGHUCU  

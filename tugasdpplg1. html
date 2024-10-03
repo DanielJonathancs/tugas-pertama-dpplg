@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<h1>Halo</h1>
+<h3>Nama Saya Daniel Jonathan cs</h3>
+<b>Hobi saya :</b>
+ <ul>
+    <li><b>Main Musik</b></li>
+    <li><b>Main Game</b></li>
+    <li><b>Nonton Anime</b></li>
+</ul>
+ <b> Makanan Favorit<ol> 
+   <li>Nasi Goreng</li>
+   <li>Steak</li>
+   <li>Ayam Geprek </li>
+  </ol>
+<b> Minuman Favorit </b>
+  <ol type="A">
+   <li>Es Teh</li>
+   <li>Kopi</li>
+   <li>coklat</li>
+  </ol>
+  
+<table border="1">
+    <tr>
+            <th></th>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+            <th></th>
+            <th>4</th>
+            <th>5</th>
+            <th>6</th>
+            <th></th>
+            <th>7</th>
+            <th>8</th>
+            <th>9</th>
+            <th>10</th>
+     </tr>
+      <tr>
+          <th>SENIN</th>
+          <td colspan="3">INF</td>
+          <td rowspan="6">IST</td>
+          <td colspan="1">INF</td>
+          <td colspan="2">DPPLG</td>
+          <td rowspan="5">IST</td>
+          <td colspan="4">DPPLG</td>
+    </tr>
+     <tr>
+          <th>SELASA</th>
+          <td colspan="2">SNM</td>
+          <td colspan="1">SJR</td>
+          <td colspan="1">SJR</td>
+          <td colspan="2">BNG</td>
+          <td colspan="2">BIN</td>
+          <td colspan="2">MTK</td>
+   </tr>
+    <tr>
+         <th>RABU</th>
+         <td colspan="3">PAG</td>
+         <td colspan="2">BIN</td>
+         <td colspan="1">BJW</td>
+         <td colspan="2">MTK</td>
+         <td colspan="2">BNG</td>
+    </tr>
+     <tr> 
+          <th>KAMIS</th>
+          <td colspan="2">PPS</td>
+          <td colspan="1">BJW</td>
+          <td colspan="3">POR</td>
+          <td colspan="4">IPAS</td>
+     </tr>
+      <tr>
+           <th>JUMAT</th>
+           <td colspan="3">DPPLG</td>
+           <td colspan="1">DPPLG</td>
+           <td colspan="2">IPAS</td>
+           <td colspan="2">DPPLG</td>
+           <td colspan="1"></td>
+           <td colspan="1"></td>
+      </tr>
+</table>
+<p> <p/>
+      <img src="content://com.android.externalstorage.documents/document/primary%3ADCIM%2F100PINT%2FPin%2F2fc49ee58a686740130f0088aebc2364.jpg" alt="Anime" width="200px" height="200px" style="Margin: 10px; border-radius: 30px;border: 10px solid LightBlue">
+      <marquee behavior="scroll" scrollamount="10" bgcolor="Yellow">Pesona</marquee>
+      <marquee behavior="scroll" scrollamount="10" bgcolor="Blue">Waifu</marquee>
+      <marquee behavior="scroll" scrollamount="10" bgcolor="Red">Danz</marquee>
+      <a href="http://w3schools.com">Belajar bareng dong kids</a>
+</br>
+    <a href="file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit%20user%20files/TugasFormDaniel.html">Daftar di sini</a>
+</body>
+</html>
